@@ -6,6 +6,9 @@ metadata:
   annotations:
     github.com/project-slug: meeh0w/very-erroneous-project
     sentry.io/project-slug: backstage-errors
+  links:
+    - url: https://meeh0w.github.io/very-erroneous-project/
+      title: Production App
 spec:
   type: website
   owner: user:meeh0w
