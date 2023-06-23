@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: very-erroneous-project
+  description: All this project does is generate errors
+  annotations:
+    github.com/project-slug: meeh0w/very-erroneous-project
+spec:
+  type: website
+  owner: user:meeh0w
+  lifecycle: experimental
