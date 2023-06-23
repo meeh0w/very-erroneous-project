@@ -5,6 +5,7 @@ metadata:
   description: All this project does is generate errors
   annotations:
     github.com/project-slug: meeh0w/very-erroneous-project
+    sentry.io/project-slug: backstage-errors
 spec:
   type: website
   owner: user:meeh0w
